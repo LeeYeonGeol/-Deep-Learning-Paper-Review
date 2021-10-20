@@ -7,3 +7,5 @@
 
 [Attention is All You Need](./Attention_Is_All_You_Need_Review.pdf)
 
+[ELECTRA](./ELECTRA.pdf)
+
